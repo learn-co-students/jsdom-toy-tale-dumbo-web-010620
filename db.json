@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 3,
@@ -47,6 +47,66 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Goku",
+      "image": "http://t0.gstatic.com/images?q=tbn%3AANd9GcQ3KL9GogeLq6vi_dhacu-ZIjwbD0qo-Rn2RQ6dC7WjZ7x0GyDNRXx0jlkBtjE&usqp=CAc",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Goku",
+      "image": "http://t0.gstatic.com/images?q=tbn%3AANd9GcQ3KL9GogeLq6vi_dhacu-ZIjwbD0qo-Rn2RQ6dC7WjZ7x0GyDNRXx0jlkBtjE&usqp=CAc",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Goku",
+      "image": "http://t0.gstatic.com/images?q=tbn%3AANd9GcQ3KL9GogeLq6vi_dhacu-ZIjwbD0qo-Rn2RQ6dC7WjZ7x0GyDNRXx0jlkBtjE&usqp=CAc",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Goku",
+      "image": "http://t0.gstatic.com/images?q=tbn%3AANd9GcQ3KL9GogeLq6vi_dhacu-ZIjwbD0qo-Rn2RQ6dC7WjZ7x0GyDNRXx0jlkBtjE&usqp=CAc",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Goku",
+      "image": "http://t0.gstatic.com/images?q=tbn%3AANd9GcQ3KL9GogeLq6vi_dhacu-ZIjwbD0qo-Rn2RQ6dC7WjZ7x0GyDNRXx0jlkBtjE&usqp=CAc",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Goku",
+      "image": "http://t0.gstatic.com/images?q=tbn%3AANd9GcQ3KL9GogeLq6vi_dhacu-ZIjwbD0qo-Rn2RQ6dC7WjZ7x0GyDNRXx0jlkBtjE&usqp=CAc",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "Goku",
+      "image": "http://t0.gstatic.com/images?q=tbn%3AANd9GcQ3KL9GogeLq6vi_dhacu-ZIjwbD0qo-Rn2RQ6dC7WjZ7x0GyDNRXx0jlkBtjE&usqp=CAc",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "Goku",
+      "image": "http://t0.gstatic.com/images?q=tbn%3AANd9GcQ3KL9GogeLq6vi_dhacu-ZIjwbD0qo-Rn2RQ6dC7WjZ7x0GyDNRXx0jlkBtjE&usqp=CAc",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "Goku",
+      "image": "http://t0.gstatic.com/images?q=tbn%3AANd9GcQ3KL9GogeLq6vi_dhacu-ZIjwbD0qo-Rn2RQ6dC7WjZ7x0GyDNRXx0jlkBtjE&usqp=CAc",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "name": "Android 18",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ebay.com.my%2Fitm%2FDragon-Ball-Android-18-sexy-PVC-figure-statue-doll-figurine-toy-manga-cool-%2F263948508339&psig=AOvVaw2ddtOLZA9gtPHgsD7GPF1n&ust=1583195948775000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC_9NfG-ucCFQAAAAAdAAAAABAD",
+      "likes": 1,
+      "id": 18
     }
   ]
 }
